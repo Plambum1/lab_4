@@ -13,3 +13,18 @@ C:\Users\danzi\Desktop\лаб 4ак\lab\lab\obj\Debug\net6.0\refint\lab.dll
 C:\Users\danzi\Desktop\лаб 4ак\lab\lab\obj\Debug\net6.0\lab.pdb
 C:\Users\danzi\Desktop\лаб 4ак\lab\lab\obj\Debug\net6.0\lab.genruntimeconfig.cache
 C:\Users\danzi\Desktop\лаб 4ак\lab\lab\obj\Debug\net6.0\ref\lab.dll
+C:\Users\danzi\Desktop\lab4\program\lab\bin\Debug\net6.0\lab.exe
+C:\Users\danzi\Desktop\lab4\program\lab\bin\Debug\net6.0\lab.deps.json
+C:\Users\danzi\Desktop\lab4\program\lab\bin\Debug\net6.0\lab.runtimeconfig.json
+C:\Users\danzi\Desktop\lab4\program\lab\bin\Debug\net6.0\lab.dll
+C:\Users\danzi\Desktop\lab4\program\lab\bin\Debug\net6.0\lab.pdb
+C:\Users\danzi\Desktop\lab4\program\lab\obj\Debug\net6.0\lab.csproj.AssemblyReference.cache
+C:\Users\danzi\Desktop\lab4\program\lab\obj\Debug\net6.0\lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danzi\Desktop\lab4\program\lab\obj\Debug\net6.0\lab.AssemblyInfoInputs.cache
+C:\Users\danzi\Desktop\lab4\program\lab\obj\Debug\net6.0\lab.AssemblyInfo.cs
+C:\Users\danzi\Desktop\lab4\program\lab\obj\Debug\net6.0\lab.csproj.CoreCompileInputs.cache
+C:\Users\danzi\Desktop\lab4\program\lab\obj\Debug\net6.0\lab.dll
+C:\Users\danzi\Desktop\lab4\program\lab\obj\Debug\net6.0\refint\lab.dll
+C:\Users\danzi\Desktop\lab4\program\lab\obj\Debug\net6.0\lab.pdb
+C:\Users\danzi\Desktop\lab4\program\lab\obj\Debug\net6.0\lab.genruntimeconfig.cache
+C:\Users\danzi\Desktop\lab4\program\lab\obj\Debug\net6.0\ref\lab.dll

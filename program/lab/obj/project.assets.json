@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\danzi\\Desktop\\лаб 4ак\\lab\\lab\\lab.csproj",
+      "projectUniqueName": "C:\\Users\\danzi\\Desktop\\lab4\\program\\lab\\lab.csproj",
       "projectName": "lab",
-      "projectPath": "C:\\Users\\danzi\\Desktop\\лаб 4ак\\lab\\lab\\lab.csproj",
+      "projectPath": "C:\\Users\\danzi\\Desktop\\lab4\\program\\lab\\lab.csproj",
       "packagesPath": "C:\\Users\\danzi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\danzi\\Desktop\\лаб 4ак\\lab\\lab\\obj\\",
+      "outputPath": "C:\\Users\\danzi\\Desktop\\lab4\\program\\lab\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\danzi\\AppData\\Roaming\\NuGet\\NuGet.Config",
